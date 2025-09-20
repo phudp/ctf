@@ -1,0 +1,15 @@
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/bin/Debug/net8.0/temp-brute
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/bin/Debug/net8.0/temp-brute.deps.json
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/bin/Debug/net8.0/temp-brute.runtimeconfig.json
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/bin/Debug/net8.0/temp-brute.dll
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/bin/Debug/net8.0/temp-brute.pdb
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/temp-brute.GeneratedMSBuildEditorConfig.editorconfig
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/temp-brute.AssemblyInfoInputs.cache
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/temp-brute.AssemblyInfo.cs
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/temp-brute.csproj.CoreCompileInputs.cache
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/temp-brute.sourcelink.json
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/temp-brute.dll
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/refint/temp-brute.dll
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/temp-brute.pdb
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/temp-brute.genruntimeconfig.cache
+/home/kurlz/ctf/2025/1753ctf/luck/temp-brute/obj/Debug/net8.0/ref/temp-brute.dll
